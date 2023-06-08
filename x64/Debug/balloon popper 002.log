@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\GLP\balloon popper 002\Main.cpp(183,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(183,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(198,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(210,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(211,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(212,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GLP\balloon popper 002\Main.cpp(213,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  balloon popper 002.vcxproj -> C:\GLP\balloon popper 002\x64\Debug\balloon popper 002.exe
